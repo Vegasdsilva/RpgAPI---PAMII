@@ -8,7 +8,7 @@ namespace RpgApi.Utils
 {
     public static class ClaimTypesExtension
     {
-        public static int UserId(this ClaimsPrincipal user)
+        public static int ObterUsuarioId(this ClaimsPrincipal user)
         {
             var id = 
                 user.Claims
