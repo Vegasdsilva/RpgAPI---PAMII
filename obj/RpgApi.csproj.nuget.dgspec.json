@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Erickson Vegas\\PAM II\\RpgApi\\RpgApi.csproj": {}
+    "D:\\Erickson Vegas\\RPGAPI\\RpgApi.csproj": {}
   },
   "projects": {
-    "D:\\Erickson Vegas\\PAM II\\RpgApi\\RpgApi.csproj": {
+    "D:\\Erickson Vegas\\RPGAPI\\RpgApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Erickson Vegas\\PAM II\\RpgApi\\RpgApi.csproj",
+        "projectUniqueName": "D:\\Erickson Vegas\\RPGAPI\\RpgApi.csproj",
         "projectName": "RpgApi",
-        "projectPath": "D:\\Erickson Vegas\\PAM II\\RpgApi\\RpgApi.csproj",
+        "projectPath": "D:\\Erickson Vegas\\RPGAPI\\RpgApi.csproj",
         "packagesPath": "C:\\Users\\etechas\\.nuget\\packages\\",
-        "outputPath": "D:\\Erickson Vegas\\PAM II\\RpgApi\\obj\\",
+        "outputPath": "D:\\Erickson Vegas\\RPGAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
